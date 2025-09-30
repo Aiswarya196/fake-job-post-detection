@@ -123,8 +123,8 @@ These insights helped in:
 
 End-to-End ML Project Ownership (data cleaning → model training → evaluation → deployment → documentation)g
 
-**📸 Screenshots:**
-[View]
+**📸 Screenshot:**
+[View](Screenshot_fake_job_post.PNG)
 
 **💼 About Me:**
 
